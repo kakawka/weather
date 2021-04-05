@@ -1,1 +1,9 @@
-{ "city": "berlin", "temperature": 11 }
+{
+  "weathers": [
+    {
+      "id": "berlin",
+      "city": "berlin",
+      "temperature": "11"
+    }
+  ]
+}
